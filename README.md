@@ -70,9 +70,10 @@ Para completar este teste, você deve concentrar-se principalmente em três arqu
 ## Como Executar
 
 1. Clone o repositório: `git clone <URL_DO_REPOSITORIO>`
-2. Instale as dependências: `yarn install`
-3. Para instalar o projeto, execute o script `./install.sh`
-4. Inicie a aplicação: `yarn start`
+2. Navegue para a pasta do projeto: `CD monorepo`
+3. Instale as dependências: `yarn install`
+4. Para instalar o projeto, execute o script `./install.sh`
+5. Inicie a aplicação: `yarn start`
 
 ### Scripts Disponíveis
 
